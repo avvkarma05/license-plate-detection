@@ -1,4 +1,4 @@
-#🚗 License Plate Detector
+🚗 LICENSE PLATE DETECTOR
 
 📌 Overview
 
